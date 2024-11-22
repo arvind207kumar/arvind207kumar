@@ -1,4 +1,8 @@
-![MasterHead](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)
+
+<h1 align="center"><img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="MasterHead" style="width: 100%; height: auto;"></h1>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
 <h3 align="center">A passionate ML, DL, and AI enthusiast from India 🇮🇳, dedicated to decoding data and deriving insights to create impactful solutions.</h3>
