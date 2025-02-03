@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
+<h1 align="center">Hi 👋, I'm Arvind Kumar Narayan</h1>
 <h3 align="center">A passionate ML, DL, and AI enthusiast from India 🇮🇳, dedicated to decoding data and deriving insights to create impactful solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.psd-dude.com/tutorials/matrix-effect-animation-gif-photoshop-tutorial/matrix-rain-effect-animation-photoshop-editor.gif"
 
