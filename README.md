@@ -28,19 +28,21 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<!--
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@aknarayan.000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@aknarayan.000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arvind-kumar-560885231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arvind-kumar-560885231/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/email/settings/19161625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/email/settings/19161625" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/aknarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aknarayan" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/aknarayan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aknarayan" height="30" width="40" /></a>
 <a href="https://medium.com/@aknarayan.000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aknarayan.000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/datahack_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/datahack_007/" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/https://profiles.topcoder.com/arvind_42?edit-mode=onboardingcompleted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/arvind_42?edit-mode=onboardingcompleted" height="30" width="40" /></a>
 <a href="/@aknarayan.000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="@aknarayan.000" height="30" width="40" /></a>
 </p>
--->
+
+
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@aknarayan.000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@aknarayan.000" height="30" width="40" /></a>
@@ -52,7 +54,7 @@
 <a href="https://www.topcoder.com/members/https://profiles.topcoder.com/arvind_42?edit-mode=onboardingcompleted" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder Profile" height="30" width="40" /></a>
 <a href="/@aknarayan.000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="@aknarayan.000" height="30" width="40" /></a>
 </p>
-
+-->
 
 
 <h3 align="left">Languages and Tools:</h3>
